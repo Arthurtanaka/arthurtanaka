@@ -3,7 +3,7 @@
 
 ## Quem sou eu
 
-Sou um estudante apaixonado por **tecnologia** e **programação**, atualmente cursando o primeiro semestre de **Engenharia de Software** na **Unicesumar**. Tenho 18 anos e estou sempre em busca de aprender mais sobre **desenvolvimento de software**, especialmente no campo de **desenvolvimento web**.
+Atualmente cursando o primeiro semestre de **Engenharia de Software** na **Unicesumar**. Tenho 18 anos e estou sempre em busca de aprender mais sobre **desenvolvimento de software**, especialmente no campo de **desenvolvimento web**.
 
 ### Interesses:
 - **Programação** 💻
