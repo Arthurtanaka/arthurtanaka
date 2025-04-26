@@ -37,5 +37,5 @@ Aqui estão alguns dos meus projetos:
 
 Estou sempre aberto a aprender e trocar ideias! Se você quiser conversar sobre programação, desenvolvimento de software ou simplesmente bater um papo sobre tecnologia, não hesite em me enviar uma mensagem! 😄
 
-[LinkedIn](https://www.linkedin.com/in/arthur-tanaka-78aa95334/) | [GitHub](https://github.com/seu-username)
+[LinkedIn](https://www.linkedin.com/in/arthur-tanaka-78aa95334/) | [GitHub](https://github.com/Arthurtanaka)
 
